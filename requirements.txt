@@ -1,2 +1,4 @@
-gradio>=6.5,<7
-openai>=2.0,<3
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+openai>=1.100
